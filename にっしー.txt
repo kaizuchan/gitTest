@@ -3,5 +3,8 @@ git/githubの練習
 ワークツリー（編集中）
     ↓git add
 ステージングエリア
-    ↓
+    ↓git commit
 Gitディレクトリ
+
+
+練習
