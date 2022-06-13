@@ -2,5 +2,5 @@ git/githubの練習
 
 gitテスト
 
-n回目
+今度こそ
 
