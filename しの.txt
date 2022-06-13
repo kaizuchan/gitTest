@@ -2,3 +2,5 @@ git/githubの練習
 
 gitテスト
 
+二回目やで
+
