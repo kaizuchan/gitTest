@@ -1,2 +1,4 @@
 git/githubの練習
 
+gitテスト
+
