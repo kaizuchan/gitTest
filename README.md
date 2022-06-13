@@ -1,2 +1,2 @@
 # gitTest
-gitの
+gitの練習
